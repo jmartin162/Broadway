@@ -1,0 +1,16 @@
+html {
+  font-family: Helvetica, sans-serif;
+  text-align: center;
+  font-size:18 px;
+}
+
+.header {
+  color:white;
+  background-image: url('/Users/jeremymartin/Desktop/projects/Dev/Broadway/resources/images/the-flatiron-building.png');
+}
+
+h1 {
+  font-size:70 px;
+  font-weight:bold;
+
+}
